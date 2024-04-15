@@ -7,7 +7,7 @@
     <property name="default-height">600</property>
     <property name="title">Online Accounts</property>
     <property name="icon-name">gnome-online-accounts-gtk</property>
-    <child type="titlebar">
+<!--     <child type="titlebar">
       <object class="GtkHeaderBar" id="header">
         <property name="title-widget">
           <object class="GtkBox">
@@ -35,7 +35,7 @@
           </object>
         </property>
       </object>
-    </child>
+    </child> -->
     <child>
       <object class="GtkOverlay">
         <property name="child">
